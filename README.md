@@ -1,25 +1,14 @@
-# Product/Platform - Task
+# Dashboard for Web Forms - How to customize a database schema for SQL data sources
 
-This is the repository template for creating new examples. Describe the solved task here.
+This example shows how to create a custom database schema for the dashboard. 
 
-Put a screenshot that illustrates the result here.
-
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
-
-## Files to Look At
-
-- link.cs (VB: link.vb)
-- link.js
-- ...
 
 ## Documentation
 
-- link
-- link
-- ...
+* [IDBSchemaProviderEx](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.Sql.IDBSchemaProviderEx)
 
 ## More Examples
 
-- link
-- link
-- ...
+
+* [Dashboard for MVC - How to customize a data store schema for SQL data sources](https://github.com/DevExpress-Examples/aspnet-mvc-dashboard-how-to-customize-a-data-store-schema-for-sql-data-sources-t584271)
+* [Dashboard for ASP.NET Core - How to customize a data store schema for SQL data sources](https://github.com/DevExpress-Examples/aspnet-mvc-dashboard-how-to-customize-a-data-store-schema-for-sql-data-sources-t584271)
