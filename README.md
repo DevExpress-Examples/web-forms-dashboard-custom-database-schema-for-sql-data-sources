@@ -11,7 +11,7 @@ To see the result, add a new query or edit the existing query.
 
 ### The LimitDBSchemaProvider class
 
-File: [LimitDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.cs)
+File: [LimitDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.cs) (VB: [LimitDBSchemaProvider.vb](./VB/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.vb))
 
 This provider displays only the following database entities:
 
@@ -23,7 +23,7 @@ This provider displays only the following database entities:
 
 ### The ManualDBSchemaProvider class
 
-File: [ManualDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.cs)
+File: [ManualDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.cs) (VB: [LimitDBSchemaProvider.vb](./VB/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.vb))
 
 This provider loads two tables (`Categories` and `Products`) for the `NWindConnectionString` connection. Both tables contain only two columns and the tables are linked by the `CategoryID` field.
 
@@ -33,9 +33,9 @@ This technique improves the [Data Source Wizard](https://docs.devexpress.com/Das
 
 ## Files to Look At
 
-* [LimitDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.cs)
-* [ManualDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.cs)
-* [Default.aspx.cs](/CS/WebFormsDashboard_CustomSchemaProvider/Default.aspx.cs#L16)
+* [LimitDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.cs) (VB: [LimitDBSchemaProvider.vb](./VB/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.vb))
+* [ManualDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.cs) (VB: [ManualDBSchemaProvider.vb](./VB/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.vb))
+* [Default.aspx.cs](/CS/WebFormsDashboard_CustomSchemaProvider/Default.aspx.cs#L16) (VB: [Default.aspx.vb](./VB/WebFormsDashboard_CustomSchemaProvider/Default.aspx.vb))
 
 ## Documentation
 
