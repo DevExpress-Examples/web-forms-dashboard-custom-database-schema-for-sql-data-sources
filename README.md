@@ -35,7 +35,7 @@ This technique improves the [Data Source Wizard](https://docs.devexpress.com/Das
 
 * [LimitDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/LimitDBSchemaProvider.cs)
 * [ManualDBSchemaProvider.cs](./CS/WebFormsDashboard_CustomSchemaProvider/ManualDBSchemaProvider.cs)
-* [DashboardUtils.cs](/CS/WebFormsDashboard_CustomSchemaProvider/Code/DashboardUtils.cs#L19)
+* [Default.aspx.cs](/CS/WebFormsDashboard_CustomSchemaProvider/Default.aspx.cs#L16)
 
 ## Documentation
 
