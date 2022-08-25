@@ -13,7 +13,7 @@ Namespace WebFormsDashboard_CustomSchemaProvider
             ' This method assigns the database schema provider to the Web Dashboard.
             ' Uncomment one of the following lines depending on the provider.
             ASPxDashboard1.SetDBSchemaProvider(New ManualDBSchemaProvider())
-        'ASPxDashboard1.SetDBSchemaProvider(new LimitDBSchemaProvider());
+            'ASPxDashboard1.SetDBSchemaProvider(New LimitDBSchemaProvider())
         End Sub
     End Class
 End Namespace
