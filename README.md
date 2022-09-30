@@ -39,7 +39,7 @@ This technique improves the [Data Source Wizard](https://docs.devexpress.com/Das
 
 ## Documentation
 
-* [Implement a Custom Database Schema](https://docs.devexpress.com/Dashboard/404044/web-dashboard/dashboard-backend/implement-a-custom-database-schema?p=netframework)
+* [Implement a Custom Database Schema in ASP.NET Web Forms](https://docs.devexpress.com/Dashboard/404054/web-dashboard/aspnet-web-forms-dashboard-control/implement-a-custom-database-schema-in-asp-net-web-forms?p=netframework)
 
 ## More Examples
 
